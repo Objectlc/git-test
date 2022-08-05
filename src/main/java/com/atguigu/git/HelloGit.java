@@ -7,5 +7,6 @@ public class HelloGit {
         System.out.println("union");
         System.out.println("push git");
         System.out.println("pull commit");
+        System.out.println("github更新了");
     }
 }
